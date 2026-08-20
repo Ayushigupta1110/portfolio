@@ -15,31 +15,27 @@ export const metadata: Metadata = {
   title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
   description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products that balance user needs and business goals. 3+ years of industry experience.",
   keywords: [
-    "Ibrahim Memon",
-    "Software Engineer",
-    "UI/UX Designer",
-    "Frontend Developer",
-    "React Developer",
-    "Next.js Developer",
+    "Ayushi Gupta",
+    "Graphic Designer",
     "Web Designer",
-    "WebHR Engineer",
+    "Digital Experiences",
     "Portfolio",
   ],
-  authors: [{ name: "Ibrahim Memon" }],
-  creator: "Ibrahim Memon",
-  publisher: "Ibrahim Memon",
+  authors: [{ name: "Ayushi Gupta" }],
+  creator: "Ayushi Gupta",
+  publisher: "Ayushi Gupta",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ibiimemon.com",
-    title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products.",
-    siteName: "Ibrahim Memon Portfolio",
+    url: "  ",
+    title: "Ayushi Gupta - Graphic Designer & Web Developer",
+    description: "I’m Ayushi Gupta, a BCA graduate currently pursuing my Master’s degree and working as a freelancer. Passionate about learning, creating, and turning ideas into meaningful digital experiences.",
+    siteName: "Ayushi Gupta Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR.",
+    title: "Ayushi Gupta - Graphic Designer & Web Developer",
+    description: "BCA Graduate & Master’s Student | Freelancer | Turning Ideas into Digital Experiences.",
   },
   robots: {
     index: true,
@@ -68,7 +64,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="canonical" href="https://ibiimemon.com" />
+        <link rel="canonical" href="  " />
       </head>
       <body
         className={`${poppins.variable} font-sans antialiased`}
